@@ -1,0 +1,22 @@
+.labelFilter {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.info {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.filterInput {
+  width: 300px;
+  outline: none;
+  border: 2px solid #b9b8b8;
+  margin: 15px auto;
+}
+
+.filterInput:focus {
+  box-shadow: 0 0 5px 3px rgb(202, 51, 189);
+  border: none;
+}

@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: #010101;
+}
+.form__container {
+  margin: 10px;
+}
+.title {
+  font-weight: 700;
+}
+.subtitle {
+  font-size: 34px;
+}
